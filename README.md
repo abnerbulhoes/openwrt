@@ -16,7 +16,7 @@ Working USB 3G Dongles
 Files
 -----
 
-* 3g.chat -> */etc/chatscripts/3g.chat*: Replacement chat script for 3G connectivity. Default script requires tunning, this works with a lot of modems (pulled from an Ubuntu 14.04).
+* 3g.chat -> */etc/chatscripts/3g.chat*: Replacement chat script for 3G connectivity. Default script requires tunning, this works with a lot of modems (pulled from an Ubuntu 14.04). My simcard is unlocked and does not require a PIN but this file can be further customized to include the command to unlock your simcard with a PIN (or whatever else you might need).
 * proto_3g.lua -> */usr/lib/lua/luci/model/cbi/admin_network/proto_3g.lua*: Luci network config script for 3G interface. For some reason package that contained this file is not found online anymore.
 
 Installation
