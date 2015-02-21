@@ -1,4 +1,4 @@
-# My OpenWRT files and configs
+# My OpenWRT 3G dongle files and configs
 I had a hard time making my OpenWRT router work with some of my 3G dongles, this repository contains some files and configs to make 3G dongle work with my OpenWRT router.
 Might be useful to someone else.
 
